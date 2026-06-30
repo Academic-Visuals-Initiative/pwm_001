@@ -1,0 +1,18 @@
+{
+    "type": "contact",
+    "id": "contact",
+    "data": {
+        "label": "CONNECT",
+        "label_color": "",
+        "text": "Let\u2019s connect!",
+        "address": "The Warm Mug Caf\u00e9, 42 Roast Lane, Portland, OR 97201",
+        "extra_line": "Office hours: Tues & Thurs, 10 AM \u2014 4 PM",
+        "icons": [
+            { "name": "googlescholar-old", "url": "#", "label": "Google Scholar" },
+            { "name": "orcid", "url": "#", "label": "ORCID" },
+            { "name": "github", "url": "#", "label": "GitHub" },
+            { "name": "linkedin", "url": "#", "label": "LinkedIn" },
+            { "name": "mail", "url": "#", "label": "Email" }
+        ]
+    }
+}
